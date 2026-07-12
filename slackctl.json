@@ -1,12 +1,12 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/slackctl/releases/download/v0.3.1/slackctl_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/slackctl/releases/download/v0.3.2/slackctl_0.3.2_windows_amd64.zip",
             "bin": [
                 "slackctl.exe"
             ],
-            "hash": "abd1d3d29536cc8d4fd30fecbe223d1bdd085a5de25a08f72a649c836c61a9da"
+            "hash": "fa404bd6c242e79be478e0d3b94dd4f4c9fbdf7904357356bf57f2494cf3ce55"
         }
     }
 }
